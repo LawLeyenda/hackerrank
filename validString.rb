@@ -26,5 +26,7 @@ def isValid(s)
     return "YES"
   end
 end
-str = "aaaaabc"
+
+
+str = "aabbcd"
 p isValid(str)
